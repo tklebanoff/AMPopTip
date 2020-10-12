@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   s.license       = { :type => 'MIT', :file => 'LICENSE' }
   s.author        = { "Andrea Mazzini" => "andrea.mazzini@gmail.com" }
   s.source        = { :git => "https://github.com/andreamazz/AMPopTip.git", :tag => s.version }
-  s.platform      = :ios, '8.0'
+  s.platform      = :ios, '9.0'
   s.swift_version = '5.0'
   s.source_files  = 'Source/*.swift'
   s.requires_arc  = true
