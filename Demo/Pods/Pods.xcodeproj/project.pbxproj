@@ -1505,7 +1505,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/Quick/Quick-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/Quick/Quick-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/Quick/Quick.modulemap";
 				PRODUCT_MODULE_NAME = Quick;
@@ -1702,7 +1702,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/Nimble/Nimble-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/Nimble/Nimble-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/Nimble/Nimble.modulemap";
 				PRODUCT_MODULE_NAME = Nimble;
@@ -1800,7 +1800,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/Quick/Quick-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/Quick/Quick-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/Quick/Quick.modulemap";
 				PRODUCT_MODULE_NAME = Quick;
@@ -1898,7 +1898,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/AMPopTip/AMPopTip-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/AMPopTip/AMPopTip-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/AMPopTip/AMPopTip.modulemap";
 				PRODUCT_MODULE_NAME = AMPopTip;
@@ -1929,7 +1929,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/Nimble/Nimble-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/Nimble/Nimble-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/Nimble/Nimble.modulemap";
 				PRODUCT_MODULE_NAME = Nimble;
@@ -2055,7 +2055,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/AMPopTip/AMPopTip-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/AMPopTip/AMPopTip-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/AMPopTip/AMPopTip.modulemap";
 				PRODUCT_MODULE_NAME = AMPopTip;
